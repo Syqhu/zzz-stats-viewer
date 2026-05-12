@@ -54,7 +54,7 @@ pyinstaller --onefile --windowed --name "ZZZ_Stats" zzz_stats_viewer.py
 - レアリティ + 名前 + 属性 + 役割 + 理想ステータス×5
 - 優先度ドット(🔴高 🟡中 🟢低) で各ステータスの重要度を可視化
 
-## 📊 データソース
+##  データソース
 
 - **ステータス値**: [Prydwen.gg](https://www.prydwen.gg/zenless/) / [game8.jp](https://game8.jp/zenless) / [wikiwiki.jp/zenless](https://wikiwiki.jp/zenless/) の公開ビルドガイドを基に整理
 - **キャラアイコン**: [Fandom ZZZ Wiki](https://zenless-zone-zero.fandom.com/) MediaWiki API経由 (起動時自動取得)
