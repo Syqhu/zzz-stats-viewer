@@ -28,7 +28,7 @@
 ### 方法B: Pythonコマンドで実行
 
 ```bash
-git clone https://github.com/YOURNAME/zzz-stats-viewer.git
+git clone https://github.com/Syqhu/zzz-stats-viewer.git
 cd zzz-stats-viewer
 pip install -r requirements.txt
 python zzz_stats_viewer.py
